@@ -9,10 +9,11 @@ body{
 	font-family: 'Lato', sans-serif;
 	min-width: 100%;
     max-width: 1600px;
+	margin: 0 auto;
+
 }
 
 .container {
-	min-width: 100%;
 	max-width: 1142px;
 	margin: 0 auto;
 }
